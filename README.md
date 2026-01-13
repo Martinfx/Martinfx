@@ -35,6 +35,6 @@
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,git,bsd,clion" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,powershell,cmake,git,bsd,clion" />
 </p>
 <hr>
