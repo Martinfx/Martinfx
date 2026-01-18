@@ -1,3 +1,8 @@
+## About me
+Hi! I’m a FreeBSD open-source developer focusing on kernel drivers, hardware support, and ports maintenance.
+FreeBSD is a complete operating system with a monolithic kernel, widely used for servers, embedded platforms, and networking gear. 
+My work contributes directly to the kernel and the FreeBSD ecosystem, enabling better hardware support and software availability for users everywhere.
+
 ## ⚡️ Stats
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
